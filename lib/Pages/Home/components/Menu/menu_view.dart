@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:pimentaschiri/Pages/ContactPage.dart';
-import 'package:pimentaschiri/Pages/HomePage.dart';
-import 'package:pimentaschiri/Pages/ProductsPage.dart';
+import 'package:pimentaschiri/Pages/Contact/ContactPage.dart';
+import 'package:pimentaschiri/Pages/Products/ProductsPage.dart';
+import '../../HomePage.dart';
 import 'Button_View_Menu.dart';
 
 class Menu extends StatefulWidget {

@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
-import './Pages/HomePage.dart';
+import 'Pages/Home/HomePage.dart';
 
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    color: Colors.blue,
-    theme: ThemeData(primaryColor: Colors.blue),
     home: HomePage(),
   ));
 }
